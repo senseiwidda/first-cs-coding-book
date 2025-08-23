@@ -9,4 +9,6 @@ print(fruits[0])  # Output: apple
 fruits.append("orange")
 print(fruits)
 
-# Removing an
+# Removing an element
+fruits.remove("banana")
+print(fruits)
