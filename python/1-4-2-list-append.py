@@ -8,27 +8,3 @@ fruits.append("mangos")
 fruits.insert(2, "lemon")
 # ['apples', 'bananas', 'lemon', 'peaches', 'kiwi', 'oranges', 'pears', 'cherries', 'mangos']
 print(fruits)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-              
-

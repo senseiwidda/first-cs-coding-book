@@ -6,22 +6,3 @@ vegetables=['carrots', 'peas', 'cabbages', 'lettuce', 'onions', 'cucumbers', 'br
 vegetable_length=len(vegetables)
 print(vegetable_length)
 # 7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-              
-
