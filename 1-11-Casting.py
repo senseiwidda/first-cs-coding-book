@@ -1,0 +1,8 @@
+a=int(1)
+b=int(2.8)
+c=int("3")
+d=float("4.2")
+print(type(d))
+e=str("s1")
+f=str(2)
+g=str(3.0)

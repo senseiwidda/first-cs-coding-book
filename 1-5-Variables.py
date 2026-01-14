@@ -1,0 +1,11 @@
+a=5
+b="John"
+print(a)
+print(b)
+c=str(3)
+print(c+b)
+d=int(3)
+e=float(3)
+print(type(c))
+print(type(d))
+A="Sally"
