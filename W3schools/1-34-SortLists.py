@@ -24,7 +24,7 @@ def myfunc(n):
     return abs(n-50)
 hislist=[100,50,65,82,23]
 hislist.sort(key=myfunc)    
-prisonslist.sort(key=myfunc)
-print(prisonslist)
-prisonslist.sort(key=len)
-print(prisonslist)
+thislist.sort(key=str.lower)
+print(thislist) 
+thislist.reverse()
+print(thislist)
