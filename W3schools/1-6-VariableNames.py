@@ -7,3 +7,4 @@ myvar2="John"
 myVariableName="John"
 MyVariableName="John"
 my_variable_name="John"
+print(myvar)

@@ -1,0 +1,30 @@
+thislist=["orange","mango","kiwi","pineapple","banana"]
+print(thislist)
+thislist.sort()
+print(thislist)
+mylist=[100,50,65,82,23]
+print(mylist)
+mylist.sort()
+print(mylist)
+mylist.sort(reverse=True)
+print(mylist)
+a=["freshman"]
+b=["mage"]
+c=["bandit"]
+d=["paladin"]
+e=["arcane"]
+f=["vanguard"]
+prisonslist=[f,a,b,c,e,d]
+print(prisonslist)
+prisonslist.sort()
+print(prisonslist)
+prisonslist.sort(reverse=True)
+print(prisonslist)
+def myfunc(n):
+    return abs(n-50)
+hislist=[100,50,65,82,23]
+hislist.sort(key=myfunc)    
+prisonslist.sort(key=myfunc)
+print(prisonslist)
+prisonslist.sort(key=len)
+print(prisonslist)
