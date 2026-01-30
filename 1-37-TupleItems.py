@@ -1,0 +1,6 @@
+thistuple=("apple","banana","cherry","apple","cherry")
+print(thistuple[1])
+print(thistuple[-2])
+histuple=("apple","banana","cherry","orange","kiwi","melon","mango")
+print(histuple[2:5])
+print(histuple[:4])

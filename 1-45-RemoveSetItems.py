@@ -1,0 +1,15 @@
+thisset={"apple","banana","cherry"}
+print(thisset)
+thisset.remove("banana")
+print(thisset)
+thisset.discard("cherry")
+print(thisset)
+thisset.add("orange")
+thisset.add("kiwi")
+print(thisset)
+x=thisset.pop()
+print(x)
+print(thisset)
+thisset.clear()
+print(thisset)
+del thisset
