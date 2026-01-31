@@ -1,0 +1,7 @@
+a=frozenset({"apple","banana","cherry"})
+print(a)
+print(type(a))
+frozenset.copy(a)
+print(a)
+frozenset.difference(a,{"banana"})
+print(a)
