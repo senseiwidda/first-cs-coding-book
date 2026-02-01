@@ -11,3 +11,4 @@ del thisdict["brand"]
 print(thisdict)
 thisdict.clear()
 print(thisdict)
+del thisdict
