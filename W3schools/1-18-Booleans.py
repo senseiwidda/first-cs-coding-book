@@ -50,7 +50,7 @@ def myfunction():
     return True
 print(myfunction())
 def myfunction():
-    return True
+    return False
 if myfunction():
     print("The Autumnian Scythe")
 else:
